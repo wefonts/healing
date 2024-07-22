@@ -1,5 +1,5 @@
 # healing
-달성힐링체
+달서힐링체
 
 <pre>
 @font-face {
